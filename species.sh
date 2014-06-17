@@ -1,4 +1,6 @@
 #commentcommentcomment
+#make some changes
+
 for filename in $*
 do
 	echo $filename
