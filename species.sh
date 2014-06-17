@@ -1,3 +1,4 @@
+#different line in second copy
 #commentcommentcomment
 #make some changes
 
