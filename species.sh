@@ -1,4 +1,4 @@
-#change to original final
+#different line in second copy
 #commentcommentcomment
 for filename in $*
 do
